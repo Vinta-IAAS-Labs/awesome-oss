@@ -140,6 +140,8 @@ You don't have to be a developer to contribute to your favorite open source proj
 
 - [Dovecot](https://dovecot.org/) - IMAP and POP3 email server for Linux/UNIX-like systems<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://www.dovecot.org/support/) [![Donate](https://cdn.rawgit.com/sereneblue/awesome-oss/master/donate.svg)](https://dovecot.org/support.html)
+- [Geary](https://gitlab.gnome.org/GNOME/geary) - Geary is an email application built around conversations, for the GNOME desktop.<br/>
+  [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/GNOME/geary?tab=contributing-ov-file)
 - [Mail-in-a-box](https://mailinabox.email/) - one-click, easy-to-deploy SMTP+everything else server<br/>
   [![Contribute](https://cdn.rawgit.com/sereneblue/awesome-oss/master/contribute.svg)](https://github.com/mail-in-a-box/mailinabox)
 - [Mailcow](https://mailcow.email/) - The mailserver suite with the 'moo' – 🐮 + 🐋 = 💕<br/>
